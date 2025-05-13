@@ -1,0 +1,19 @@
+# Ignore configuration with sensitive data
+config.ini
+
+# Ignore Python compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Ignore virtual environment
+covid_dashboard/
+venv/
+env/
+
+# Ignore generated files
+*.png
+*.csv
+
+# Ignore logs
+*.log
