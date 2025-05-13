@@ -28,8 +28,9 @@ Recovery tracking shows the United States leading with 109.8 million recoveries,
 
 ## Setup
 
-1. Clone the repository: git clone https://github.com/your-username/covid-dashboard.git
-cd covid-dashboard
+1. Clone the repository: git clone https://github.com/hugobaiao/covid-dashboard.git
+
+   cd covid-dashboard
 
 2. Install the required packages: pip install -r requirements.txt
 
